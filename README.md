@@ -1,3 +1,8 @@
+![IR Remote Kit](https://github.com/paulwang999/ethan-ir-receiver-remaster/blob/main/1.jpg?raw=true)
+
+> Photo: IR remote + receiver + LED module used in this project.
+
+
 IR Remote Extension (ethan-ir-new_remote)
 
 A redesigned and educational MakeCode extension for the micro:bit that adds an improved IR remote controller layout and servo-control demo, based on the original MakerBit IR receiver blocks.
