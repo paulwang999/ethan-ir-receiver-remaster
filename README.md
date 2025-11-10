@@ -1,6 +1,10 @@
+# Ethan IR Receiver Remaster
+
 ![IR Remote Kit](https://github.com/paulwang999/ethan-ir-receiver-remaster/blob/main/1.jpg?raw=true)
 
-> Photo: IR remote + receiver + LED module used in this project.
+A redesigned MakerBit-style IR remote extension for **micro:bit**.  
+Supports the 21-key remote shown above — ideal for classroom projects and servo control.
+
 
 
 IR Remote Extension (ethan-ir-new_remote)
